@@ -29,11 +29,11 @@ As requested, the application is fully containerized. To evaluate the deployment
 
 Build the Docker image:
 
-Bash
+ ```Bash
 docker build -t mlops-task .
 Run the container:
 
-Bash
+ ```Bash
 docker run --rm mlops-task
 Note: The container is configured to automatically pull in the dataset and config, execute the job, print the final metrics JSON directly to stdout, and cleanly exit with a 0 success code.
 
