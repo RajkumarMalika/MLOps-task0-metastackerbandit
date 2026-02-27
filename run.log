@@ -1,0 +1,22 @@
+2026-02-27 22:48:41,413 - INFO - Job start timestamp recorded.
+2026-02-27 22:48:41,423 - INFO - Config loaded + validated (seed:42, window:5, version:v1)
+2026-02-27 22:48:41,457 - ERROR - Exception / validation error: Missing required column (close).
+2026-02-27 22:48:41,457 - INFO - Job end + status: error
+2026-02-27 22:59:24,886 - INFO - Job start timestamp recorded.
+2026-02-27 22:59:24,887 - INFO - Config loaded + validated (seed:42, window:5, version:v1)
+2026-02-27 22:59:24,910 - ERROR - Exception / validation error: Missing required column (close).
+2026-02-27 22:59:24,910 - INFO - Job end + status: error
+2026-02-27 23:09:37,958 - INFO - Job start timestamp recorded.
+2026-02-27 23:09:37,959 - INFO - Config loaded + validated (seed:42, window:5, version:v1)
+2026-02-27 23:09:37,996 - INFO - Rows loaded: 10000
+2026-02-27 23:09:37,996 - INFO - Computing rolling mean...
+2026-02-27 23:09:38,013 - INFO - Generating signals...
+2026-02-27 23:09:38,017 - INFO - Metrics summary - Processed: 10000, Rate: 0.0000, Latency: 60ms
+2026-02-27 23:09:38,017 - INFO - Job end + status: success
+2026-02-27 23:12:05,912 - INFO - Job start timestamp recorded.
+2026-02-27 23:12:05,912 - INFO - Config loaded + validated (seed:42, window:5, version:v1)
+2026-02-27 23:12:05,923 - INFO - Rows loaded: 10000
+2026-02-27 23:12:05,923 - INFO - Computing rolling mean...
+2026-02-27 23:12:05,925 - INFO - Generating signals...
+2026-02-27 23:12:05,925 - INFO - Metrics summary - Processed: 10000, Rate: 0.0000, Latency: 15ms
+2026-02-27 23:12:05,926 - INFO - Job end + status: success
